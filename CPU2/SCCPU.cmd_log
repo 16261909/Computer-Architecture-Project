@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FILE/CPU2/SCCPU.xst" -ofn "C:/Users/Administrator/Desktop/FILE/CPU2/SCCPU.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FILE/CPU2/SCCPU.xst" -ofn "C:/Users/Administrator/Desktop/FILE/CPU2/SCCPU.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FILE/CPU2/SCCPU.xst" -ofn "C:/Users/Administrator/Desktop/FILE/CPU2/SCCPU.syr" 

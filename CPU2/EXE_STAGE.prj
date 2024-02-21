@@ -1,0 +1,3 @@
+verilog work "../../SCCPU/mux32_2_1.v"
+verilog work "../../SCCPU/alu.v"
+verilog work "../../SCCPU/EXE_STAGE.v"

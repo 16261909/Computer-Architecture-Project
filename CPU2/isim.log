@@ -1,0 +1,19 @@
+ISim log file
+Running: C:\Users\Administrator\Desktop\FILE\CPU2\test2_1_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Administrator/Desktop/FILE/CPU2/test2_1_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+WARNING: File "C:/Users/Administrator/Desktop/SCCPU/ID_STAGE.v" Line 52.  For instance stage2/rf/, width 5 of formal port wn is not equal to width 1 of actual signal rn.
+WARNING: File "C:/Users/Administrator/Desktop/SCCPU/ID_STAGE.v" Line 52.  For instance stage2/des_reg_num/, width 5 of formal port y is not equal to width 1 of actual signal rn.
+WARNING: File "C:/Users/Administrator/Desktop/SCCPU/SCCPU.v" Line 43.  For instance uut/stage2/, width 3 of formal port aluc is not equal to width 1 of actual signal id_aluc.
+WARNING: File "C:/Users/Administrator/Desktop/SCCPU/SCCPU.v" Line 43.  For instance uut/r2/, width 3 of formal port id_aluc is not equal to width 1 of actual signal id_aluc.
+WARNING: File "C:/Users/Administrator/Desktop/SCCPU/SCCPU.v" Line 33.  For instance uut/r2/, width 6 of formal port id_rn is not equal to width 5 of actual signal id_rn.
+WARNING: File "C:/Users/Administrator/Desktop/SCCPU/SCCPU.v" Line 27.  For instance uut/r2/, width 3 of formal port exe_aluc is not equal to width 2 of actual signal exe_aluc.
+WARNING: File "C:/Users/Administrator/Desktop/SCCPU/SCCPU.v" Line 27.  For instance uut/stage3/, width 3 of formal port ealuc is not equal to width 2 of actual signal exe_aluc.
+WARNING: File "C:/Users/Administrator/Desktop/SCCPU/SCCPU.v" Line 33.  For instance uut/r4/, width 6 of formal port mem_rn is not equal to width 5 of actual signal mem_rn.
+WARNING: File "C:/Users/Administrator/Desktop/SCCPU/SCCPU.v" Line 33.  For instance uut/r4/, width 6 of formal port wb_rn is not equal to width 5 of actual signal wb_rn.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

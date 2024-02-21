@@ -1,0 +1,5 @@
+verilog work "../../SCCPU/Regfile.v"
+verilog work "../../SCCPU/mux5_2_1.v"
+verilog work "../../SCCPU/Control_Unit.v"
+verilog work "add32.v"
+verilog work "../../SCCPU/ID_STAGE.v"
